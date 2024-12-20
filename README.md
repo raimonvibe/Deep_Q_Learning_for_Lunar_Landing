@@ -22,7 +22,7 @@ The solution uses:
 
 ## Getting Started
 
-The implementation is available in the Jupyter notebook: `Deep_Q_Learning_for_Lunar_Landing_Partial_Code.ipynb`
+The implementation is available in the Jupyter notebook: `lunar_lander_dqn.ipynb`
 
 ### Prerequisites
 - Python 3.x
